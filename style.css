@@ -2,4 +2,12 @@
 Klass EE22A
 Namn Jack Kronholm
 */
- 
+body {
+    text-align: center;
+}
+
+.centered-heading {
+    font-size: 36px;
+    margin: 20px;
+}
+
